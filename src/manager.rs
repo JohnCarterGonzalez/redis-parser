@@ -1,5 +1,3 @@
-use std::net::ToSocketAddrs;
-
 use async_trait::async_trait;
 use deadpool::managed;
 use tokio::net::ToSocketAddrs;
